@@ -1,0 +1,14 @@
+.controlBtn {
+    margin-right: 150px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.controlBtn__Item {
+    cursor: pointer;
+    margin-right: 25px;
+}
+
+.deleteBtn:hover, .editBtn:hover, .shareBtn:hover {
+    opacity: 20%;
+}
